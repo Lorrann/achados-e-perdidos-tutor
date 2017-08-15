@@ -1,0 +1,5 @@
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Infra\bin\Debug\AchadosPerdidos.Infra.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Infra\bin\Debug\AchadosPerdidos.Infra.pdb
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Infra\obj\Debug\AchadosPerdidos.Infra.csprojResolveAssemblyReference.cache
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Infra\obj\Debug\AchadosPerdidos.Infra.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Infra\obj\Debug\AchadosPerdidos.Infra.pdb

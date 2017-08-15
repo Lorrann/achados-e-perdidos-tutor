@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchadosPerdidos.Web", "Acha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchadosPerdidos.Infra", "AchadosPerdidos.Infra\AchadosPerdidos.Infra.csproj", "{515823CB-A7A1-4A89-8E68-C33495E6EE16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchadosPerdidos.Teste", "AchadosPerdidos.Teste\AchadosPerdidos.Teste.csproj", "{01CB4A11-BB55-4F42-9AE6-865BFF77AF91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{515823CB-A7A1-4A89-8E68-C33495E6EE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{515823CB-A7A1-4A89-8E68-C33495E6EE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{515823CB-A7A1-4A89-8E68-C33495E6EE16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CB4A11-BB55-4F42-9AE6-865BFF77AF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CB4A11-BB55-4F42-9AE6-865BFF77AF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CB4A11-BB55-4F42-9AE6-865BFF77AF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CB4A11-BB55-4F42-9AE6-865BFF77AF91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
