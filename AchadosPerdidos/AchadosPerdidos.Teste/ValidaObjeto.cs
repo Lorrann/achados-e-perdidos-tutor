@@ -1,5 +1,6 @@
 ﻿using AchadosPerdidos.Infra.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace AchadosPerdidos.Teste
 {
@@ -13,9 +14,12 @@ namespace AchadosPerdidos.Teste
             var tipo = "Celular";
             var marca = "Lenovo";
             var cor = "Preto";
+            DateTime dataPerda = new DateTime(2017, 6, 15);
 
             //act:
-            var obj = new ObjetoModel(tipo, marca, cor);
+            var obj = new ObjetoPerdido(tipo, marca, cor, dataPerda);
+
+            var tempo = obj.TempoPerdido;
 
             //assert
             Assert.IsNotNull(obj);

@@ -18,7 +18,7 @@ namespace AchadosPerdidos.Teste
             string Email = "lorrann.correa@outlook.cm";
 
             //act:
-            var user = new UsuarioModel(Nome, Sobrenome, Telefone, Email, DataNascimento);
+            var user = new Usuario(Nome, Sobrenome, Telefone, Email, DataNascimento);
 
             //assert:
             Assert.IsNotNull(user);

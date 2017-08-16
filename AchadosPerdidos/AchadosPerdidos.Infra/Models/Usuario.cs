@@ -3,9 +3,9 @@ using System;
 
 namespace AchadosPerdidos.Infra.Models
 {
-    public class UsuarioModel
+    public class Usuario
     {
-        public UsuarioModel(string nome, string sobrenome, string telefone, string email,
+        public Usuario(string nome, string sobrenome, string telefone, string email,
             DateTime dataNascimento)
         {
             if (string.IsNullOrEmpty(nome))
