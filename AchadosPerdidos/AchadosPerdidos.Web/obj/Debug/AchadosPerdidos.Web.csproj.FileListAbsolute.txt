@@ -45,3 +45,15 @@ C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\obj\Debug\AchadosPerdidos.Web.csprojResolveAssemblyReference.cache
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\obj\Debug\AchadosPerdidos.Web.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\obj\Debug\AchadosPerdidos.Web.pdb
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\AchadosPerdidos.Data.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\AchadosPerdidos.Infra.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\Newtonsoft.Json.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\System.Web.Http.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\AchadosPerdidos.Data.pdb
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\AchadosPerdidos.Infra.pdb
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\Newtonsoft.Json.xml
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\System.Web.Http.xml
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Web\bin\System.Web.Http.WebHost.xml

@@ -4,7 +4,7 @@ namespace AchadosPerdidos.Infra.ExtensionMethods
 {
     public static class ValidaIdade
     {
-        public static int CalculaIdade(this DateTime data)
+        public static int CalcularIdade(this DateTime data)
         {
             var anosDiferenca = DateTime.Now.Year - data.Year;
 

@@ -5,22 +5,19 @@ namespace AchadosPerdidos.Infra.Models
 {
     public class Usuario
     {
+
         public Usuario(string nome, string sobrenome, string telefone, string email,
             DateTime dataNascimento)
         {
-            if (string.IsNullOrEmpty(nome))
-                throw new Exception("Nome Inválido!");
+            if (string.IsNullOrEmpty(nome)) throw new Exception("Nome Inválido!");
 
-            if (string.IsNullOrEmpty(sobrenome))
-                throw new Exception("Sobrenome Inválido!");
+            if (string.IsNullOrEmpty(sobrenome)) throw new Exception("Sobrenome Inválido!");
 
-            if (string.IsNullOrEmpty(telefone))
-                throw new Exception("Telefone Inválido!");
+            if (string.IsNullOrEmpty(telefone)) throw new Exception("Telefone Inválido!");
 
-            if (string.IsNullOrEmpty(email))
-                throw new Exception("E-mail Inválido!");
+            if (string.IsNullOrEmpty(email)) throw new Exception("E-mail Inválido!");
 
-            int idade = dataNascimento.CalculaIdade();
+            int idade = dataNascimento.CalcularIdade();
 
             if (idade < 18)
                 throw new Exception("Idade Inválida!");

@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AchadosPerdidos.Infra\AchadosPerdidos.Infra.csproj">
+    <ProjectReference Include="..\AchadosPerdidos.Infra\AchadosPerdidos.Business.csproj">
       <Project>{515823cb-a7a1-4a89-8e68-c33495e6ee16}</Project>
-      <Name>AchadosPerdidos.Infra</Name>
+      <Name>AchadosPerdidos.Business</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
