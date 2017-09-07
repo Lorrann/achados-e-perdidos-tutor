@@ -44,3 +44,16 @@ C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\obj\Debug\AchadosPerdidos.WebAPI.pdb
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Data.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Data.pdb
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.Razor.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.Razor.xml
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.WebPages.Razor.xml

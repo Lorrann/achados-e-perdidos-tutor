@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/picnic/6.4.0/picnic.min.css" rel="stylesheet"/>
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.2/axios.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.4.2/vue.js"></script>
+</head>
+<body>
+    <div>
+        <nav class="menu-top">
+            <a href="#" class="brand">Achados e Perdidos</a>
+
+            <input id="bmenug" type="checkbox" class="show">
+            <label for="bmenug" class="burger pseudo button">&#8801;</label>
+
+            <div class="menu">
+                <a href="#" class="pseudo button"> Cadastrar</a>
+                <a href="#" class="button"> Login</a>
+            </div>
+        </nav>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+
+
+</body>
+</html>

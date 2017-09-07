@@ -4,3 +4,4 @@ C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Data\bin\Debug\AchadosPerdidos.Business.pdb
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Data\obj\Debug\AchadosPerdidos.Data.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Data\obj\Debug\AchadosPerdidos.Data.pdb
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Data\obj\Debug\AchadosPerdidos.Data.csprojResolveAssemblyReference.cache
