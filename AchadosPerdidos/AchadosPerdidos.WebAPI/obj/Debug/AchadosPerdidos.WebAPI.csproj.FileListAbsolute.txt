@@ -27,15 +27,13 @@ C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.WebAPI.dll.config
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.WebAPI.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.WebAPI.pdb
-C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Data.dll
-C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Infra.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Business.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\Newtonsoft.Json.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Net.Http.Formatting.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.Http.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Web.Http.WebHost.dll
-C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Data.pdb
-C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Infra.pdb
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Business.pdb
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\Newtonsoft.Json.xml
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\System.Net.Http.Formatting.xml
@@ -44,3 +42,5 @@ C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\obj\Debug\AchadosPerdidos.WebAPI.csprojResolveAssemblyReference.cache
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\obj\Debug\AchadosPerdidos.WebAPI.dll
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\obj\Debug\AchadosPerdidos.WebAPI.pdb
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Data.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.WebAPI\bin\AchadosPerdidos.Data.pdb

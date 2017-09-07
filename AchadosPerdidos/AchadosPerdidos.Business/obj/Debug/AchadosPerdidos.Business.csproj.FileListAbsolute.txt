@@ -1,0 +1,5 @@
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Business\bin\Debug\AchadosPerdidos.Business.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Business\bin\Debug\AchadosPerdidos.Business.pdb
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Business\obj\Debug\AchadosPerdidos.Business.csprojResolveAssemblyReference.cache
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Business\obj\Debug\AchadosPerdidos.Business.dll
+C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Business\obj\Debug\AchadosPerdidos.Business.pdb
