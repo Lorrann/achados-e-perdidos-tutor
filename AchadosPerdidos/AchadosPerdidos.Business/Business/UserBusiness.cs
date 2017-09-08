@@ -1,5 +1,6 @@
 ﻿using AchadosPerdidos.Business.Model;
 using AchadosPerdidos.Business.Repository;
+using System.Collections.Generic;
 
 namespace AchadosPerdidos.Business.Business
 {
@@ -16,5 +17,11 @@ namespace AchadosPerdidos.Business.Business
         {
             this.UserRepository.Create(user);
         }
+
+        public IEnumerable<User> GetUsers()
+        {
+            return this.UserRepository.GetUsers();
+        }
+
     }
 }

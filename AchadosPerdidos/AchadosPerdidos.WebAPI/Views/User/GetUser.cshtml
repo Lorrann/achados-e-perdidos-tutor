@@ -1,0 +1,55 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="form">
+
+    <label>Pesquisar usuário</label>
+
+    <fieldset class="flex two">
+        <label><input type="text" placeholder="Nome" v-model="user.name" value="" /></label>
+    </fieldset>
+
+    <button onclick="getUser()">Buscar</button>
+    <br />
+    <br />
+
+    <table id="user-table" class="primary" style="display:none">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Telefone</th>
+                <th>E-mail</th>
+                <th>CPF</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr v-for="user in users">
+                <td>{{user.Name}}</td>
+                <td>{{user.Fone}}</td>
+                <td>{{user.Mail}}</td>
+                <td>{{user.CPF}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<script>
+
+    function getUser() {
+        axios.get('/api/User')
+            .then(function (response) {
+                var users = response.data;
+
+                var getUserViewModel = new Vue({
+                    el: "#user-table",
+                    data: {
+                        users: users
+                    },
+                });
+                document.getElementById('user-table').style.display = 'block';
+            })
+            .catch(function () {
+                alert("Deu erro");
+            })
+    }
+</script>

@@ -16,9 +16,9 @@ namespace AchadosPerdidos.WebAPI.Controllers
         }
         
         // GET: api/User
-        public IEnumerable<string> Get()
+        public IEnumerable<User> Get()
         {
-            return new string[] { "value1", "value2" };
+            return this.UserBusiness.GetUsers();
         }
 
         // GET: api/User/5
