@@ -32,8 +32,6 @@ namespace AchadosPerdidos.Data.SqlRepository
 
             sqlConnection.Open();
             userReturn = command.ExecuteReader();
-            //command.Clone();
-            
 
             IList<User> userList = new List<User>();
 

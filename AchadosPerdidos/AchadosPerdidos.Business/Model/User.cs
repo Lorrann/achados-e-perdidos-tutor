@@ -8,15 +8,55 @@ namespace AchadosPerdidos.Business.Model
 {
     public class User
     {
-        public string Name { get; set; }
+        private string _name;
+        public string Name {
+            get { return _name; }
+            set
+            {
+                if (string.IsNullOrEmpty(value)) throw new Exception("Nome é um campo obrigatório");
+                this._name = value;
+            }
+        }
 
-        public string Fone { get; set; }
+        private string _fone;
+        public string Fone {
+            get { return _fone; }
+            set
+            {
+                if (string.IsNullOrEmpty(value)) throw new Exception("Telefone é um campo obrigatório");
+                this._fone = value;
+            }
+        }
 
-        public string Mail { get; set; }
+        private string _mail;
+        public string Mail {
+            get {return _mail; }
+            set
+            {
+                if (string.IsNullOrEmpty(value)) throw new Exception("E-mail é um campo obrigatório");
+                this._mail = value;
+            }
+        }
 
-        public string CPF { get; set; }
+        private string _cpf;
+        public string CPF {
+            get {return _cpf; }
+            set
+            {
+                if (string.IsNullOrEmpty(value)) throw new Exception("CPF é um campo obrigatório");
+                this._cpf = value;
+            }
+        }
 
-        public string Password { get; set; }
+        private string _password;
+        public string Password {
+            get { return _password; }
+            set
+            {
+                if (string.IsNullOrEmpty(value)) throw new Exception("Senha é um campo obrigatório");
+                this._password = value;
+            }
+        }
 
     }
 }

@@ -5,16 +5,17 @@
 <div></div>
 
 <div id="user-create" class="form">
-    <fieldset class="flex two">
-        <label><input type="text" placeholder="Nome" v-model="user.name" value="" /></label>
-
-        <label><input type="text" placeholder="Telefone" v-model="user.fone" value="" /></label>
-
-        <label><input type="text" placeholder="CPF" v-model="user.cpf" value="" /></label>
-
-        <label><input type="email" placeholder="E-MAIL" v-model="user.mail" value="" /></label>
-
-        <label><input type="password" placeholder="Senha" v-model="user.password" value="" /></label>
+    <fieldset class="flex two-600 four-800">
+        <label>Nome</label>
+        <input type="text" placeholder="Nome" v-model="user.name" value="" />
+        <label>Telefone</label>
+        <input type="text" placeholder="Telefone" v-model="user.fone" value="" />
+        <label>CPF</label>
+        <input type="text" placeholder="CPF" v-model="user.cpf" value="" />
+        <label>E-mail</label>
+        <input type="email" placeholder="E-MAIL" v-model="user.mail" value="" />
+        <label>Senha</label>
+        <input type="password" placeholder="Senha" v-model="user.password" value="" />
     </fieldset>
 
     <button @@click="create">Cadastrar</button>
