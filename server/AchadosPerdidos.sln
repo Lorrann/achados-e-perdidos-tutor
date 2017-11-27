@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchadosPerdidos.Business", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchadosPerdidos.Data", "src\AchadosPerdidos.Data\AchadosPerdidos.Data.csproj", "{766672D0-C4D5-4A12-B1E6-6FE8F1121C8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchadosPerdidos.WebAPI", "AchadosPerdidos.WebAPI\AchadosPerdidos.WebAPI.csproj", "{E9875A41-8041-4BB2-BAE8-BB91B7E50EB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AchadosPerdidos.WebAPI", "src\AchadosPerdidos.WebAPI\AchadosPerdidos.WebAPI.csproj", "{E9875A41-8041-4BB2-BAE8-BB91B7E50EB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
