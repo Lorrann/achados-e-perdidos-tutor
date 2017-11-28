@@ -5,6 +5,7 @@ C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.
 C:\Users\LorrannCorrêa\Desktop\Lorrann\Estudos\AchadosPerdidos\AchadosPerdidos.Business\obj\Debug\AchadosPerdidos.Business.pdb
 C:\Lorrann\achados-e-perdidos-tutor\server\src\AchadosPerdidos.Business\bin\Debug\AchadosPerdidos.Business.dll
 C:\Lorrann\achados-e-perdidos-tutor\server\src\AchadosPerdidos.Business\bin\Debug\AchadosPerdidos.Business.pdb
-C:\Lorrann\achados-e-perdidos-tutor\server\src\AchadosPerdidos.Business\obj\Debug\AchadosPerdidos.Business.csprojResolveAssemblyReference.cache
+C:\Lorrann\achados-e-perdidos-tutor\server\src\AchadosPerdidos.Business\obj\Debug\AchadosPerdidos.Business.csproj.CoreCompileInputs.cache
 C:\Lorrann\achados-e-perdidos-tutor\server\src\AchadosPerdidos.Business\obj\Debug\AchadosPerdidos.Business.dll
 C:\Lorrann\achados-e-perdidos-tutor\server\src\AchadosPerdidos.Business\obj\Debug\AchadosPerdidos.Business.pdb
+C:\Lorrann\achados-e-perdidos-tutor\server\src\AchadosPerdidos.Business\obj\Debug\AchadosPerdidos.Business.csprojResolveAssemblyReference.cache

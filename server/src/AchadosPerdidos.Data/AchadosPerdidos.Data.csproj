@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlRepository\SqlProductRepository.cs" />
     <Compile Include="SqlRepository\SqlUserRepository.cs" />
   </ItemGroup>
   <ItemGroup />
